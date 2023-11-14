@@ -1,0 +1,41 @@
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 500%;
+    line-height: 125%;
+    text-decoration: underline wavy;
+    text-underline-offset: 30%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 200%;
+    text-decoration: underline dotted;
+    margin-top: 2%;
+} 
+
+.center-list{
+    line-height: 200%;
+    font-size: 36px;
+    margin-left: 425px;
+    margin-right: 375px;
+}
+
+ul, ol {
+    line-height: 150%;
+}
+
+.thumbnail {
+    width: 10%;
+    vertical-align: middle;
+    margin-right: 2%
+}
+
+* {
+    font-family: "Lucidia Handwriting", "Brush Script MT", cursive, "Copperplate", "fantasy", "Papyrus", "Times New Roman";
+    font-size: 110%
+}
